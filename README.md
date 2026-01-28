@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋  <br><br>Nice to meet you, I'm Suraj!<br><br>🔭 I’m currently working on Java, MERN Stack and Full Stack Web Development projects  <br>🤝 Actively looking for Java / MERN Stack / Full Stack Developer internship or entry-level opportunities  <br>🌱 I’m currently learning, Data Structures & Algorithms in Java <br>📫 How to reach me: – https://www.linkedin.com/in/suraj-kumar-jha01/ | Email – sjha3626@gmail.com  <br>⚡ Fun fact: If I’m not coding, I’m probably watching tech videos or spending time with friends<br>
+Hi there 👋<br>Nice to meet you, I'm Suraj!<br>🔭 I’m currently working on Java, MERN Stack and Full Stack Web Development projects  <br>🤝 Actively looking for Java / MERN Stack / Full Stack Developer internship or entry-level opportunities  <br>🌱 I’m currently learning, Data Structures & Algorithms in Java <br>📫 How to reach me: – https://www.linkedin.com/in/suraj-kumar-jha01/ | Email – sjha3626@gmail.com  <br>⚡ Fun fact: If I’m not coding, I’m probably watching tech videos or spending time with friends<br>
 
 
 ## 🌐 Socials:
